@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunah
 - 👀 I’m interested in web, software, and game dev
-- 🌱 I’m currently learning Java and TypeScript
+- 🌱 I’m currently learning more JS concepts, and progressing
 - 💞️ I’m looking to collaborate on cool projects like creating softwares, websites, or game servers
 - 📫 How to reach me : reply.kunah@gmail.com, Kunah#0763
 

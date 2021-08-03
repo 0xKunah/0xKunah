@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more JS concepts, and progressing
 - 💞️ I’m looking to collaborate on cool projects like creating softwares, websites, or game servers
 - 📚 My knowledge : 
-    - Javascript
+    - Javascript / TypeScript
     - jQuery
     - ReactJS
     - HTML

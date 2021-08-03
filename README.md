@@ -5,13 +5,13 @@
 - 📚 My knowledge : 
     - Javascript / TypeScript
     - jQuery
-    - ReactJS
+    - ReactJS (TailwindCSS, Material UI, Next.js)
     - HTML
     - CSS/SCSS
     - ElectronJS
     - PHP
-    - MySQL
-    - NodeJS
+    - NodeJS (Express, socket.io)
+    - Databases (MongoDB, SQLite, SQL)
 - 📫 How to reach me : reply.kunah@gmail.com, Kunah#0763
 
 <!---

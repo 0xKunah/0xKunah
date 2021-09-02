@@ -9,7 +9,7 @@
     - CSS/SCSS
     - ElectronJS
     - PHP
-    - NodeJS (Express, socket.io)
+    - NodeJS (Express, socket.io...)
     - Databases (MongoDB, SQLite, SQL)
 - 📫 How to reach me : reply.kunah@gmail.com, Kunah#0763
 

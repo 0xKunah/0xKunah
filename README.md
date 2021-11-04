@@ -11,3 +11,23 @@
     <a href="https://github.com/Kunah/CLI-Scraper"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=CLI-Scraper&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
     <a href="https://github.com/Kunah/electron-react-app-bp"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=electron-react-app-bp&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
 </span>
+
+<h1>My knowledge : </h1>
+<ul>
+    <li>Javascript
+        <ul>
+            <li>ReactJS</li>
+            <li>VueJS</li>
+            <li>jQuery</li>
+            <li>Typescript</li>
+            <li>NodeJS</li>
+        </ul>
+    </li>
+    <li>CSS
+        <ul>
+            <li>TailwindCSS</li>
+            <li>Scss/Sass/Less</li>
+            <li>Bootstrap</li>
+        </ul>
+    </li>
+</ul>

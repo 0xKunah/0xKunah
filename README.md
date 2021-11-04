@@ -6,5 +6,5 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=Discord-Webhook-Sender&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=discord.js-bot-template&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=CLI-Scraper&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=electron-react-app-bp&bg_color=2c2f33&title_color=01acfb&text_color=E5E7EB&border_color=01acfb" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=electron-react-app-bp&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" />
 </span>

@@ -1,19 +1,9 @@
-- 👋 Hi, I’m @Kunah
-- 👀 I’m interested in web, software, and game dev
-- 🌱 I’m currently learning more JS concepts, and progressing
-- 💞️ I’m looking to collaborate on cool projects like creating softwares, websites, or game servers
-- 📚 My knowledge : 
-    - Javascript / TypeScript (jQuery)
-    - ReactJS (TailwindCSS, Material UI, Next.js)
-    - HTML
-    - CSS/SCSS
-    - ElectronJS
-    - PHP
-    - NodeJS (Express, socket.io...)
-    - Databases (MongoDB, SQLite, SQL)
-- 📫 How to reach me : reply.kunah@gmail.com, Kunah#0763
-
-<!---
-Kunah/Kunah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>My Github stats: </h1>
+<img src='https://github-readme-stats.vercel.app/api?username=Kunah&count_private=true&bg_color=2c2f33&text_color=E5E7EB&title_color=01acfb&border_color=01acfb'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kunah&layout=compact&hide=lua,batchfile&bg_color=2c2f33&title_color=01acfb&text_color=E5E7EB&border_color=01acfb'/>
+<h1>My best repos : </h1>
+<ul>
+    <li>I started to learn C# and winforms by creating a Discord webhooks sender : 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=Discord-Webhook-Sender&bg_color=2c2f33&title_color=01acfb&text_color=E5E7EB&border_color=01acfb" />
+    </li>
+</ul>

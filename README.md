@@ -23,6 +23,13 @@
             <li>NodeJS</li>
         </ul>
     </li>
+    <li>PHP
+        <ul>
+            <li>MVC (Will soon start learning)</li>
+            <li>MVP (Will soon start learning)</li>
+            <li>Laravel (Will soon start learning)</li>
+        </ul>
+    </li>
     <li>CSS
         <ul>
             <li>TailwindCSS</li>
@@ -30,4 +37,19 @@
             <li>Bootstrap</li>
         </ul>
     </li>
+    <li>C#
+        <ul>
+            <li>Winforms</li>
+            <li>.NET</li>
+        </ul>
+    </li>
+    <li> Databases
+        <ul>
+            <li>SQL</li>
+            <li>SQLite</li>
+            <li>MongoDB</li>
+        </ul>
+    </li>
+    <li>HTML</li>
+    <li>Python</li>
 </ul>

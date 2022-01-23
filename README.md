@@ -52,6 +52,11 @@
     </li>
     <li>HTML</li>
     <li>Python</li>
+    <li>Lua
+        <ul>
+            <li>ESX Framework</li>
+        </ul>
+    </li>
     <li> Other skills
         <ul>
             <li>Data design (Merise)</li>

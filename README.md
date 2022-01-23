@@ -25,9 +25,9 @@
     </li>
     <li>PHP
         <ul>
-            <li>MVC (Will soon start learning)</li>
-            <li>MVP (Will soon start learning)</li>
-            <li>Laravel (Will soon start learning)</li>
+            <li>MVC</li>
+            <li>MVP</li>
+            <li>Laravel</li>
         </ul>
     </li>
     <li>CSS

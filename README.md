@@ -50,11 +50,11 @@
             <li>MongoDB</li>
         </ul>
     </li>
+    <li>HTML</li>
+    <li>Python</li>
     <li> Other skills
         <ul>
             <li>Data design (Merise)</li>
         </ul>
     </li>
-    <li>HTML</li>
-    <li>Python</li>
 </ul> 

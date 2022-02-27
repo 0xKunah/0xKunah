@@ -17,10 +17,13 @@
     <li>Javascript
         <ul>
             <li>ReactJS</li>
+            <li>NextJS</li>
             <li>VueJS</li>
+            <li>EJS</li>
             <li>jQuery</li>
             <li>Typescript</li>
             <li>NodeJS</li>
+            <li>ElectronJS</li>
         </ul>
     </li>
     <li>PHP

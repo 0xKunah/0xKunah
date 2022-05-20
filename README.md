@@ -29,7 +29,6 @@
     <li>PHP
         <ul>
             <li>MVC</li>
-            <li>MVP</li>
             <li>Laravel</li>
         </ul>
     </li>

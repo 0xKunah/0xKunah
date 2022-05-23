@@ -2,7 +2,7 @@
 <a href="#"><img align="center" src='https://github-readme-stats.vercel.app/api?username=Kunah&count_private=true&bg_color=0d1117&text_color=E5E7EB&title_color=01acfb&border_color=4B5563'/></a>
 <br/>
 <br/>
-<a href="#"><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kunah&layout=compact&hide=lua,html,batchfile,css&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563'/></a>
+<a href="#"><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kunah&layout=compact&hide=hack&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563'/></a>
 <h1>My best repos : </h1>
 <span>
     <a href="https://github.com/Kunah/Discord-Webhook-Sender"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=Discord-Webhook-Sender&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>

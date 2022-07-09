@@ -8,7 +8,7 @@
     <a href="https://github.com/Kunah/Discord-Webhook-Sender"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=Discord-Webhook-Sender&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
     <a href="https://github.com/Kunah/discord.js-bot-template"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=discord.js-bot-template&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
     <div>ㅤ</div>
-    <a href="https://github.com/Kunah/CLI-Scraper"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=CLI-Scraper&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
+    <a href="https://github.com/Kunah/karma"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=karma&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
     <a href="https://github.com/Kunah/GuessTheNumber"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=GuessTheNumber&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
 </span>
 
@@ -45,6 +45,7 @@
             <li>.NET</li>
         </ul>
     </li>
+    <li>C</li>
     <li> Databases
         <ul>
             <li>SQL</li>

@@ -7,7 +7,7 @@
     <a href="https://github.com/Kunah/discord.js-bot-template"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=discord.js-bot-template&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
     <div>ㅤ</div>
     <a href="https://github.com/Kunah/karma"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=karma&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
-    <a href="https://github.com/Kunah/GuessTheNumber"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=GuessTheNumber&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
+    <a href="https://github.com/Kunah/ATM"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunah&repo=ATM&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563" /></a>
 </span>
 
 <h1>My knowledge : </h1>

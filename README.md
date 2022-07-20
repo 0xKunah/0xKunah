@@ -1,6 +1,6 @@
 <h1>My Github stats: </h1>
-<img width="45%" align="center" src='https://github-readme-stats.vercel.app/api?username=Kunah&count_private=true&bg_color=0d1117&text_color=E5E7EB&title_color=01acfb&border_color=4B5563'/>
-<img width="45%" align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kunah&layout=compact&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563'/>
+<img width="45%" src='https://github-readme-stats.vercel.app/api?username=Kunah&count_private=true&bg_color=0d1117&text_color=E5E7EB&title_color=01acfb&border_color=4B5563'/>
+<img width="45%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kunah&layout=compact&bg_color=0d1117&title_color=01acfb&text_color=E5E7EB&border_color=4B5563'/>
 <h1>My best repos : </h1>
 <span>
     <a href="https://github.com/Kunah/Cpp-Winforms-App">

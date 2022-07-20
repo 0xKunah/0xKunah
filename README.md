@@ -43,7 +43,7 @@
             <li>.NET</li>
         </ul>
     </li>
-    <li>C</li>
+    <li>C and C++ (Learning)</li>
     <li> Databases
         <ul>
             <li>SQL</li>

@@ -92,8 +92,8 @@
 
 ## 📊 Github Stats
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img height="169px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kunah&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
-  <img height="169px" src='https://github-readme-stats.vercel.app/api?username=Kunah&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="42%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kunah&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="58%" src='https://github-readme-stats.vercel.app/api?username=Kunah&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
 </div>
 
 <img width="100%" src='https://activity-graph.herokuapp.com/graph?username=Kunah&bg_color=0d1117&color=E5E7EB&line=2563eb'/>

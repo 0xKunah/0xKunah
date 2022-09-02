@@ -11,7 +11,7 @@
 ## 🙈 About me
 
 <p align='center'>📍 Based in Lyon (France)</p>
-<p align='center'>📚 I'm student, learning C and C++, i already studied web development during 2 years</p>
+<p align='center'>📚 I'm currently studying at <a href="https://42lyon.fr">42 Lyon</a>, i already studied web development during 2 years</p>
 <p align='center'>❤️ I like watching animes and series, playing video games, and learning new languages/frameworks</p>
 
 

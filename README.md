@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://kunah.fr">
   <img  src="./resources/grid-snake.svg"
        alt="snake" /></a>
 </div>

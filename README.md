@@ -63,11 +63,15 @@
   &emsp;
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   &emsp;
-  <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   &emsp;
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   &emsp;
-  <img alt="MongoDB" src ="https://img.shields.io/badge/Mongo DB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/Mongo DB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
+  &emsp;
+  <img alt="Redis" src="https://img.shields.io/badge/redis-DC382C?style=for-the-badge&logo=redis&logoColor=white">
+  &emsp;
+  <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-fff?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
  ### 👉 Software & Tools
@@ -88,6 +92,7 @@
   &emsp;
   <img alt="Git Kraken" src="https://img.shields.io/badge/Git kraken-13877C?style=for-the-badge&logo=gitkraken&logoColor=white">
   &emsp;
+  <img alt="Docker" src="https://img.shields.io/badge/docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ## 📊 Github Stats

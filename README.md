@@ -29,8 +29,6 @@
   &emsp;
   <img alt="C" src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white"/>
   &emsp;
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-9B4994?style=for-the-badge&logo=csharp&logoColor=white"/>
-  &emsp;
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-e86328?style=for-the-badge&logo=html5&logoColor=white"/>
   &emsp;
   <img alt="CSS3" src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,9 +46,9 @@
   &emsp;
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-036e02?style=for-the-badge&logo=node.js&logoColor=white"/>
   &emsp;
-  <img alt="Vue JS" src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img alt="VueJS" src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
   &emsp;
-  <img alt="Electron JS" src="https://img.shields.io/badge/Electron-0881d1?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img alt="ElectronJS" src="https://img.shields.io/badge/Electron-0881d1?style=for-the-badge&logo=electron&logoColor=white"/>
   &emsp;
   <img alt="NextJS" src="https://img.shields.io/badge/Next-66c8c4?style=for-the-badge&logo=next.js&logoColor=white"/>
   &emsp;
@@ -65,11 +63,9 @@
   &emsp;
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   &emsp;
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   &emsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongo DB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
-  &emsp;
-  <img alt="Redis" src="https://img.shields.io/badge/redis-DC382C?style=for-the-badge&logo=redis&logoColor=white">
   &emsp;
   <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-fff?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
@@ -91,8 +87,6 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   &emsp;
   <img alt="Git Kraken" src="https://img.shields.io/badge/Git kraken-13877C?style=for-the-badge&logo=gitkraken&logoColor=white">
-  &emsp;
-  <img alt="Docker" src="https://img.shields.io/badge/docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ## 📊 Github Stats

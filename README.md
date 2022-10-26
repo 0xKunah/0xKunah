@@ -87,6 +87,8 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   &emsp;
   <img alt="Git Kraken" src="https://img.shields.io/badge/Git kraken-13877C?style=for-the-badge&logo=gitkraken&logoColor=white">
+  &emsp;
+  <img alt="Docker" src="https://img.shields.io/badge/docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ## 📊 Github Stats

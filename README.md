@@ -76,15 +76,11 @@
   &emsp;
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   &emsp;
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-B079F1?style=for-the-badge&logo=visualstudio">
-  &emsp;
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   &emsp;
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   &emsp;
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  &emsp;
-  <img alt="Git Kraken" src="https://img.shields.io/badge/Git kraken-13877C?style=for-the-badge&logo=gitkraken&logoColor=white">
   &emsp;
   <img alt="Docker" src="https://img.shields.io/badge/docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
 </p>

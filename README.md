@@ -25,8 +25,6 @@
   &emsp;
   <img alt="PHP" src="https://img.shields.io/badge/PHP-787cb5?style=for-the-badge&logo=php&logoColor=white"/>
   &emsp;
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  &emsp;
   <img alt="C" src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white"/>
   &emsp;
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-e86328?style=for-the-badge&logo=html5&logoColor=white"/>

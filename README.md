@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="./resources/waving.gif"> I'm Kunah</h1>
+<h1 align="center">Hi <img width="35" src="./resources/waving.gif"> I'm Dimitry</h1>
 </div>
 
 <div align="center">
@@ -87,8 +87,8 @@
 
 ## 📊 Github Stats
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kunah&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
-  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=Kunah&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dbiguene&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=dbiguene&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
 </div>
 
-<img width="100%" src='https://activity-graph.herokuapp.com/graph?username=Kunah&bg_color=0d1117&color=E5E7EB&line=2563eb'/>
+<img width="100%" src='https://activity-graph.herokuapp.com/graph?username=dbiguene&bg_color=0d1117&color=E5E7EB&line=2563eb'/>

@@ -90,5 +90,3 @@
   <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dbiguene&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
   <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=dbiguene&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
 </div>
-
-<img width="100%" src='https://activity-graph.herokuapp.com/graph?username=dbiguene&bg_color=0d1117&color=E5E7EB&line=2563eb'/>

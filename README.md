@@ -78,6 +78,8 @@
   &emsp;
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   &emsp;
+  <img alt="CLion" src="https://img.shields.io/badge/CLion-21D18A?style=for-the-badge&logo=clion&logoColor=white">
+  &emsp;
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   &emsp;
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">

@@ -70,7 +70,6 @@
 </p>
 
  ### 👉 Software & Tools
- 
 <p align="center">
   &emsp;
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -87,6 +86,9 @@
   &emsp;
   <img alt="Docker" src="https://img.shields.io/badge/docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
 </p>
+
+## 42 Stats
+<img src="https://badge42.vercel.app/api/v2/clbrb9qt400590gl2qjk1mlc4/stats?cursusId=21&coalitionId=304"/>
 
 ## 📊 Github Stats
 <div align="center" style="display: flex; justify-content: space-around;">

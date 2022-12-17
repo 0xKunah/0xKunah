@@ -88,8 +88,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<img src="https://lanyard.cnrad.dev/api/667854055913029641"/>
-
 ## 42 Stats
 <img src="https://badge42.vercel.app/api/v2/clbrb9qt400590gl2qjk1mlc4/stats?cursusId=21&coalitionId=304"/>
 

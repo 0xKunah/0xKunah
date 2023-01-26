@@ -92,6 +92,6 @@
 
 ## 📊 Github Stats
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/username=dbiguene&layout=compact&langs_count=18&bg_color=0d1117&text_color=E5E7EB&hide=roff,objective-c'/>
+  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dbiguene&layout=compact&langs_count=18&bg_color=0d1117&text_color=E5E7EB&hide=roff,objective-c'/>
   <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=dbiguene&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
 </div>

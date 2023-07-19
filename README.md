@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="./resources/waving.gif"> I'm Dimitry</h1>
+<h1 align="center">Hi <img width="35" src="./resources/waving.gif"> I'm Kunah</h1>
 </div>
 
 <div align="center">
@@ -87,11 +87,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-## 42 Stats
-<img src="https://badge42.vercel.app/api/v2/clbrb9qt400590gl2qjk1mlc4/stats?cursusId=21&coalitionId=304"/>
-
 ## 📊 Github Stats
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dbiguene&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB&hide=roff,objective-c'/>
-  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=dbiguene&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=0xKunah&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB&hide=roff,objective-c'/>
+  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=0xKunah&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
 </div>

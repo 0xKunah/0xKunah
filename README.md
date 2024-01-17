@@ -51,8 +51,6 @@
   &emsp;
   <img alt="NextJS" src="https://img.shields.io/badge/Next-66c8c4?style=for-the-badge&logo=next.js&logoColor=white"/>
   &emsp;
-  <img alt="NestJS" src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  &emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting

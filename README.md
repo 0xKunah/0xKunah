@@ -21,7 +21,9 @@
 
 <p align="center"> 
   
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-e6d34b?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=lua&logoColor=white"/>
+  &emsp;
+  <img alt="Lua" src="https://img.shields.io/badge/Javascript-e6d34b?style=for-the-badge&logo=javascript&logoColor=black"/>
   &emsp;
   <img alt="PHP" src="https://img.shields.io/badge/PHP-787cb5?style=for-the-badge&logo=php&logoColor=white"/>
   &emsp;

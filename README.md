@@ -54,6 +54,8 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   &emsp;
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  &emsp;
+  <img alt="AWS" src="https://img.shields.io/badge/aws-FE9901?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </p>
 
  ### 👉 Software & Tools
@@ -64,8 +66,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   &emsp;
   <img alt="Docker" src="https://img.shields.io/badge/docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
-  &emsp;
-  <img alt="AWS" src="https://img.shields.io/badge/aws-FE9901?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </p>
 
 ## 📊 Github Stats
